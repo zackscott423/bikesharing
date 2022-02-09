@@ -4,19 +4,19 @@ Citi Bike data for New York City was analyzed to investigate the feasibility of 
 # Results
 A few patterns emerged as the data visualizations were developed.  
 
-![ridesbygender](./images/ridesbygender.png)
+![ridesbygender](Images/ridesbygender.png)
 
 Men by far made up the majority of riders (at almost 3X the number of females).  
 
-![morningrides](./images/morningrides.png)
+![morningrides](Images/morningrides.png)
 
 There appeared to be a pattern of weekday commutes originating from the east side of Manhattan, heading towards the central section of Manhattan.  
 
-![weekendrides](./images/weekendrides.png)
+![weekendrides](Images/weekendrides.png)
 
 There also appeared to be a large number of weekend riders that originated in the central portion of Manhattan.
 
-![tripduration](./images/tripduration.png)
+![tripduration](Images/tripduration.png)
 
 Lastly, trip duration is very short, across all genders, with the vast majority of rides lasting 10 minutes or less.  There are very few rides that last over an hour.  
 
