@@ -4,19 +4,19 @@ Citi Bike data for New York City was analyzed to investigate the feasibility of 
 # Results
 A few patterns emerged as the data visualizations were developed.  
 
-![ridesbygender](ridesbygender.png)
+![ridesbygender](./images/ridesbygender.png)
 
 Men by far made up the majority of riders (at almost 3X the number of females).  
 
-![morningrides](morningrides.png)
+![morningrides](./images/morningrides.png)
 
 There appeared to be a pattern of weekday commutes originating from the east side of Manhattan, heading towards the central section of Manhattan.  
 
-![weekendrides](weekendrides.png)
+![weekendrides](./images/weekendrides.png)
 
 There also appeared to be a large number of weekend riders that originated in the central portion of Manhattan.
 
-![tripduration](tripduration.png)
+![tripduration](./images/tripduration.png)
 
 Lastly, trip duration is very short, across all genders, with the vast majority of rides lasting 10 minutes or less.  There are very few rides that last over an hour.  
 
@@ -25,4 +25,4 @@ While there appears to be a high level of usage for Citi Bike in New York City, 
 
 Additonal findings can be explored in the full Tableau workbook at the following link:
 
-[Tableau Public bikesharing_challenge workbook](https://public.tableau.com/app/profile/zack.scott/viz/bikesharing_challenge_16325835945830/CitiStory?publish=yes)
+[Tableau Public New York City Bike Sharing](https://public.tableau.com/app/profile/zack.scott/viz/NewYorkCityBikeSharing/NewYorkCityBikeSharingTrends)
